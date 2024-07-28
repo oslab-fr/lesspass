@@ -8,6 +8,10 @@ Stop wasting your time synchronizing your encrypted vault. Remember one master p
 
 LessPass Database server will be turned off on March 1th, 2023. [Read here why](https://blog.lesspass.com/2022-12-29/decommissioning-lesspass-database)
 
+However, shutting down the database server does not prevent you from continuing to use the functionality if you deploy your own server. You can:
+- Install some lightweight alternative of the API server for personal use. [Here is a list](https://github.com/lesspass/lesspass/wiki/Third-party-implementations-of-LessPass#api-servers).
+- [Install the server software](https://github.com/lesspass/lesspass/wiki/Hosting-LessPass-behind-your-own-proxy) (most recommended in installations for many clients).
+
 ## How does it work?
 
 - :gb: [LessPass - How Does It Work?](https://blog.lesspass.com/2016-10-19/how-does-it-work)
