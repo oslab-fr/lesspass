@@ -40,7 +40,7 @@
       </button>
     </div>
     <div class="form-group text-danger">
-      LessPass Database server will be turned off on March 1th, 2023.
+      LessPass Database server was turned off on March 1th, 2023.
       <a
         href="https://blog.lesspass.com/2022-12-29/decommissioning-lesspass-database"
         target="_blank"

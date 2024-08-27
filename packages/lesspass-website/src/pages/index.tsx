@@ -247,7 +247,7 @@ export default function IndexPage() {
                   Decommissioning LessPass Database
                 </p>
                 <p className="mt-3 text-base text-gray-500">
-                  LessPass Database server will be turned off on March 1th,
+                  LessPass Database server was turned off on March 1th,
                   2023. The static version of LessPass, the web extension and
                   the mobile versions remain in place.
                 </p>

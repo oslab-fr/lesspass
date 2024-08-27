@@ -6,7 +6,7 @@ Stop wasting your time synchronizing your encrypted vault. Remember one master p
 
 ## :rotating_light: information
 
-LessPass Database server will be turned off on March 1th, 2023. [Read here why](https://blog.lesspass.com/2022-12-29/decommissioning-lesspass-database)
+LessPass Database server was turned off on March 1th, 2023. [Read here why](https://blog.lesspass.com/2022-12-29/decommissioning-lesspass-database)
 
 ## How does it work?
 

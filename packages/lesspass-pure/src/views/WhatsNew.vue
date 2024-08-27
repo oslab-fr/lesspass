@@ -8,7 +8,7 @@
       {{
         $t(
           "New20221231",
-          "LessPass Database server will be turned off on March 1th, 2023. The static version of LessPass, the web extension and the mobile versions remain in place."
+          "LessPass Database server was turned off on March 1th, 2023. The static version of LessPass, the web extension and the mobile versions remain in place."
         )
       }}
       <router-link class="" :to="{ name: 'export' }" v-if="isAuthenticated">
