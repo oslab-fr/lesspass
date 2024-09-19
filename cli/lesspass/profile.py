@@ -1,4 +1,18 @@
 def create_profile(args):
+    default_profile = {
+        "lowercase": False,
+        "uppercase": False,
+        "digits": False,
+        "symbols": False,
+        "length": 12,
+        "counter": 0,
+        "site": "login",
+        "login": "",
+        "exclude": "",
+    }
+
+    args.update(default_profile)
+    
     profile = {
         "lowercase": False if args.nl else True,
         "uppercase": False if args.nu else True,
